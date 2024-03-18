@@ -1,0 +1,11 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "authenticate.js",
+  "scripts": {
+    "dev": "node authenticate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
